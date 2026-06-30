@@ -26,3 +26,17 @@ nav.querySelectorAll("a").forEach((link) => {
         menuButton.setAttribute("aria-label", "メニューを開く");
     });
 });
+
+document.querySelectorAll(".social-link[data-popup-url]").forEach((link) => {
+    link.addEventListener("click", (event) => {
+        event.preventDefault();
+        const url = link.dataset.popupUrl;
+        const popup = window.open(url, "daigakujiSocial", "width=960,height=720,menubar=no,toolbar=no,location=yes,status=no,scrollbars=yes,resizable=yes");
+
+        if (popup) {
+            popup.focus();
+        } else {
+            window.open(url, "_blank", "noopener,noreferrer");
+        }
+    });
+});
