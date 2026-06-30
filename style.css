@@ -405,11 +405,25 @@ h2 {
     align-items: start;
 }
 
-.intro__grid > p,
+.intro__grid > div:last-child{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.intro__grid > div:last-child p{
+    color:#554d45;
+    line-height:2;
+}
+
+.intro__grid > div:last-child p + p{
+    margin-top:40px;
+}
+
 .feature__body p,
 .message p,
-.access p {
-    color: #554d45;
+.access p{
+    color:#554d45;
 }
 
 .feature {
@@ -862,4 +876,11 @@ grid-template-columns:1fr;
 
 }
 
+}
+
+
+.greeting-message{
+    max-width:720px;
+    margin-left:auto;
+    line-height:2;
 }
