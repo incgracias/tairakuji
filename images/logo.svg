@@ -1,7 +1,50 @@
-<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="大楽寺ロゴ">
-    <path d="M48 5L91 48L48 91L5 48L48 5Z" fill="#15110E"/>
-    <path d="M48 11L85 48L48 85L11 48L48 11Z" stroke="#C7A04D" stroke-width="3"/>
-    <path d="M30 29C41 39 55 39 66 29C65 44 58 56 48 67C38 56 31 44 30 29Z" stroke="#C7A04D" stroke-width="4" stroke-linejoin="round"/>
-    <path d="M48 24V70" stroke="#C7A04D" stroke-width="4" stroke-linecap="round"/>
-    <path d="M35 53H61" stroke="#C7A04D" stroke-width="4" stroke-linecap="round"/>
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="十六八重菊善紋">
+    <title>十六八重菊善紋</title>
+    <circle cx="48" cy="48" r="45" fill="#FFFFFF" fill-opacity="0.92"/>
+    <g fill="#D8B76E" fill-opacity="0.82" stroke="#C49A43" stroke-width="2.5" stroke-linejoin="round">
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(0.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(22.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(45.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(67.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(90.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(112.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(135.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(157.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(180.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(202.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(225.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(247.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(270.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(292.5 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(315.0 48 48)"/>
+    <ellipse cx="48" cy="20.6" rx="8.4" ry="18.2" transform="rotate(337.5 48 48)"/>
+    </g>
+    <g fill="#E4C987" fill-opacity="0.74" stroke="#C49A43" stroke-width="1.8" stroke-linejoin="round" opacity="0.95">
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(11.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(33.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(56.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(78.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(101.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(123.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(146.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(168.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(191.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(213.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(236.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(258.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(281.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(303.75 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(326.25 48 48)"/>
+    <ellipse cx="48" cy="24.4" rx="5.7" ry="14.4" transform="rotate(348.75 48 48)"/>
+    </g>
+    <circle cx="48" cy="48" r="43" fill="none" stroke="#C49A43" stroke-width="3.2"/>
+    <circle cx="48" cy="48" r="17.8" fill="#FFFFFF" fill-opacity="0.96" stroke="#C83A3F" stroke-width="3.2"/>
+    <g stroke="#C83A3F" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M48 35.5V60.5"/>
+        <path d="M38.5 41H57.5"/>
+        <path d="M36.8 48H59.2"/>
+        <path d="M39.2 55H56.8"/>
+        <path d="M42 38.2C43.6 40.4 45.6 42 48 43.1C50.4 42 52.4 40.4 54 38.2"/>
+        <path d="M39.5 60.5H56.5"/>
+    </g>
 </svg>
